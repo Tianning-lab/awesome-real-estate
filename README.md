@@ -159,3 +159,14 @@
 ## License
 
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+---
+
+## Tools by New Way Capital Advisory
+
+- [Property Comps](https://property.nwc-advisory.com) — Free comparable sales data for UK, France, Singapore, NYC, Dubai, Chicago, and 5 more markets
+- [Property Comps API](https://api.nwc-advisory.com/docs) — Unified REST API across all 11 markets ([RapidAPI](https://rapidapi.com))
+- [Property Comps MCP Server](https://github.com/Tianning-lab/property-comps-mcp-server) — AI agent integration via Model Context Protocol
+- [Portfolio X-Ray](https://nwc-advisory.com/xray) — Free fund look-through analysis for property fund investors
+- [nwc-advisory.com](https://nwc-advisory.com) — Full platform
+
